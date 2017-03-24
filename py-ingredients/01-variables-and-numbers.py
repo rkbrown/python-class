@@ -7,7 +7,7 @@ print('')
 print('(1) -------------------------------------------------------------------')
 print('')
 print('')
-# assign the number 25 to the variable names a and print it out
+# assign the number 25 to the variable named a and print it out
 
 print('')
 print('')
