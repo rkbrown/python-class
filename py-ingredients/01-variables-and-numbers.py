@@ -8,8 +8,6 @@ print('(1) -------------------------------------------------------------------')
 print('')
 print('')
 # assign the number 25 to the variable names a and print it out
-a = 25
-print(a)
 
 print('')
 print('')
@@ -18,7 +16,6 @@ print('')
 print('')
 # print out the number 2
 
-print(2)
 
 print('')
 print('')
@@ -27,7 +24,6 @@ print('')
 print('')
 # print the sum of 1,299 and 3,056
 
-print(1299 + 3056)
 
 
 print('')
