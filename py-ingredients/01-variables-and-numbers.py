@@ -36,7 +36,6 @@ print('(4) -------------------------------------------------------------------')
 print('')
 print('')
 # print 963 subtracted from 27
-print(27 - 963)
 
 
 
@@ -47,7 +46,6 @@ print('')
 print('')
 # multiply 387 times 5 (hint * means 'multplied by')
 
-print(387 * 5)
 
 print('')
 print('')
@@ -56,7 +54,6 @@ print('')
 print('')
 # print 9 divided by 5 (hint / means 'divided by')
 
-print(9 / 5)
 
 
 
@@ -68,7 +65,6 @@ print('')
 # copy your division answer from above and change the / to //
 # what is the result? what does // do?
 
-print(9 // 5)
 
 
 print('')
@@ -78,4 +74,3 @@ print('')
 print('')
 # subtract 25,999 from the product of 189,992 and 2,769,232
 
-print(189992 * 2769232 - 25999)
