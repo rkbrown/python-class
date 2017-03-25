@@ -78,4 +78,6 @@ print('')
 print('')
 # use the thisYear variable and a variable you make up to print out your age
 thisYear = 2017
+myBirthYear = 1960
+print(thisYear - myBirthYear)
 
