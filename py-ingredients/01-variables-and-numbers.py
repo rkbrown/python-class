@@ -40,7 +40,7 @@ print('')
 print('(5) -------------------------------------------------------------------')
 print('')
 print('')
-# multiply 387 times 5 (hint * means 'multplied by')
+# multiply 387 by 5 (hint * means 'multplied by')
 
 
 print('')
