@@ -82,3 +82,4 @@ print('')
 # 3) print out the letter k
 # 4) print out the letter z
 # HINT: use negative OFFSET numbers to count backwards from the end of a list EX: catList[-1] = 't'
+# 5) using a negative offset number, print out the letter b
