@@ -51,10 +51,11 @@ team = {
 
 print('')
 print('')
-print('(1) -------------------------------------------------------------------')
-print(kid)
-print(team)
-
+print('(5) -------------------------------------------------------------------')
+print('')
+print('')
+# print out the kid's basball position
+# to print the 
 
 print('')
 print('')
