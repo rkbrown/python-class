@@ -45,7 +45,7 @@ print('')
 print('(4) -------------------------------------------------------------------')
 # exclamation point plus equals means "not equal"
 # write a program that prints something if a person does not want a taco
-IWANT != "taco"
+
 if IWANT != "taco":
     print('*gasp*')
 else: 
