@@ -8,7 +8,7 @@ print('(1) -------------------------------------------------------------------')
 # if THIS, then THAT
 # change taco from True to False and see what happens
 
-taco = True
+taco = False
 if taco:
     print('Yum!!!')
 else:
@@ -18,7 +18,11 @@ print('')
 print('')
 print('(2) -------------------------------------------------------------------')
 # make you own conditional statement    
-
+me = True
+if me: 
+    print('Chocolate')
+else: 
+    print('Dark milk Chocolate')
 print('')
 print('')
 print('(3) -------------------------------------------------------------------')
@@ -26,7 +30,7 @@ print('(3) -------------------------------------------------------------------')
 # NOTE assign values to variables with equals sign (=); compare values with double equals (==)
 # change the value of IWANT
 
-IWANT = "cheese"
+IWANT = "taco"
 if IWANT == "taco":
     print('nah')
 elif IWANT == "crackers":
@@ -41,8 +45,11 @@ print('')
 print('(4) -------------------------------------------------------------------')
 # exclamation point plus equals means "not equal"
 # write a program that prints something if a person does not want a taco
-
-
+IWANT != "taco"
+if IWANT != "taco":
+    print('*gasp*')
+else: 
+    print('*phew*')
 print('')
 print('')
 print('(5) -------------------------------------------------------------------')
